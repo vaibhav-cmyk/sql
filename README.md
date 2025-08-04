@@ -53,10 +53,5 @@ This repository is intended for practice and revision. All examples follow Postg
 
 ---
 
-### 🔗 Connect
 
-For any collaboration or doubt, feel free to reach out or check out my LinkedIn/GitHub profile:
-
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
 
